@@ -36,9 +36,6 @@ public class Main {
 			op = scanner.next();
 		}
 		
-		
-		
-		
 		scanner.close();
 	}	
 }
